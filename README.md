@@ -7,7 +7,7 @@ This is an official starter Turborepo.
 Run the following command:
 
 ```sh
-npx create-turbo@latest --example https://github.com/walterhu2020/template-turbo-shadcn --package-manager pnpm
+pnpm dlx create-turbo@latest --example https://github.com/walterhu2020/template-turbo-shadcn --package-manager pnpm
 ```
 
 ## What's inside?
