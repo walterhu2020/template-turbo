@@ -1,5 +1,5 @@
 {
-  "name": "turbo-shadcn-tailwind",
+  "name": "template-turbo-shadcn",
   "private": true,
   "scripts": {
     "build": "turbo build",
